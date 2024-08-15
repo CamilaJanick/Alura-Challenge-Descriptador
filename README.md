@@ -14,5 +14,6 @@ Projeto desenvolvido para um desafio técnico, focado em descriptografar textos 
 - CSS
 - JavaScript
 
+Para acessar o conteúdo neste repositório [Acesse este Link](https://camilajanick.github.io/Alura-Challenge-Descriptador/).
 
 Desenvolvido por Camila Janick.
